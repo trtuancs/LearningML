@@ -1,7 +1,13 @@
 # LearningML
-1. Learning Python  
-	1.1 Theory  
-	1.2 Exercise  
-2. Learning Basic Math  
-	2.1  	
-3. Learning Machining Learning Algorithm  
+ ## 1. Học Python  
+ * ###  1.1 Lý thuyết  
+      * #### Python là gì ?  
+      * #### 
+* ###  1.2 Bài tập  
+  * #### Level 1  
+  * #### Level 2  
+  * #### Level 3  
+ ## 2. Các kiến thức toán  
+ * ###  2.1  
+ * ###  2.2
+ ## 3. Các thuật toán cơ bản trong ML    
