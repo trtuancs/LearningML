@@ -2,7 +2,8 @@
  ## 1. Học Python  
  * ###  1.1 Lý thuyết  
       * #### Giới thiệu Python.  
-      * #### 
+      * #### Các thành phần cơ bản.  
+	  * #### 
 * ###  1.2 Bài tập  
   * #### Level 1  
   * #### Level 2  
