@@ -1,7 +1,7 @@
 # LearningML
  ## 1. Học Python  
  * ###  1.1 Lý thuyết  
-      * #### Python là gì ?  
+      * #### Giới thiệu Python.  
       * #### 
 * ###  1.2 Bài tập  
   * #### Level 1  
