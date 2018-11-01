@@ -2,9 +2,10 @@
  ## 1. Python là gì ?  
  * ###  Là ngôn ngữ thông dich.  
  * ###  Triết lý Python : The Zen of Python  
- '''python
- import this
- '''
+ 
+ ```python
+import this
+```
  * ###  Hiện tại Python có 2 phiên bản : 3.x và 2.x .Phiên bản đang được dùng trong serie này là 3.7.0.  
  ## 2. Ứng dụng Python.  
  * ###  Lập trình web: Django,Tornado.  
